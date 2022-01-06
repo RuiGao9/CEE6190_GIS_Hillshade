@@ -1,1 +1,2 @@
-# CEE6190_GIS_Hillshade
+# CEE6190 GIS Hillshade
+Rui.Gao@usu.edu
